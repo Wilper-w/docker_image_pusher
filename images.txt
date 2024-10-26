@@ -1,4 +1,1 @@
-mysql:5.7
-redis:5.0
-mongo
-rabbitmq:3.10.5
+centos:7.9
